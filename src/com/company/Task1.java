@@ -1,11 +1,12 @@
 package com.company;
-
+//Файл добавлен в репозиторий
 import java.util.Scanner;
 
 public class Task1 {
 
     public static void main(String[] args) {
         //1.Объявление переменных, ввод данных
+
         Scanner in = new Scanner(System.in);
         System.out.print("Введите текст: ");
         String str = in.nextLine();
